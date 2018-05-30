@@ -15,3 +15,6 @@ MinMax.min(1.2,2.3,-5.0,...,n.n);
 MinMax.max(1,2,-5,...,n);
 MinMax.max(1.2,2.3,-5.0,...,n.n);
 ```
+
+## Documentation
+[JavaDoc](https://christian0101.github.io/JavaAdvancedMinMax/)
