@@ -3,9 +3,9 @@ Advanced min/max methods for java. Find min/max for n elements in Java.
 
 Improved Math.min and Math.max from the standard Java library.
 This class implements advanced min/max methods that allow an arbitrary 
-number of arguments.
+number of arguments*.
 
-
+*Numbers.
 
 ## Usage example
 
