@@ -26,10 +26,10 @@ package advancedminmax;
 public class MinMax {
 
     /**
-     * Returns the minimum of given values.
+     * Returns the minimum of given numbers.
      *
      * @param numbers The given numbers.
-     * @return The minimum of given values.
+     * @return The minimum of the given numbers.
      */
     @SafeVarargs
     public static <T extends Number & Comparable<T>> T min(T... numbers) {
@@ -47,10 +47,10 @@ public class MinMax {
     }
 
     /**
-     * Returns the maximum of given values.
+     * Returns the maximum of given numbers.
      *
      * @param numbers The given numbers.
-     * @return The maximum of given values.
+     * @return The maximum of the given numbers.
      */
     @SafeVarargs
     public static <T extends Number & Comparable<T>> T max(T... numbers) {
