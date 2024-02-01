@@ -26,7 +26,7 @@ package advancedminmax;
 public class MinMax {
 
     /**
-     * Returns the minimum of given numbers.
+     * Returns the minimum of the given numbers.
      *
      * @param numbers The given numbers.
      * @return The minimum of the given numbers.
@@ -47,7 +47,7 @@ public class MinMax {
     }
 
     /**
-     * Returns the maximum of given numbers.
+     * Returns the maximum of the given numbers.
      *
      * @param numbers The given numbers.
      * @return The maximum of the given numbers.
