@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"advancedminmax","c":"MinMaxTest","l":"MinMaxTest()","url":"%3Cinit%3E()"}]

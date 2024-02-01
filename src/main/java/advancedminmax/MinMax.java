@@ -8,14 +8,19 @@ package advancedminmax;
  * This class implements advanced min/max methods that allow an arbitrary
  * number of arguments.
  * <p>
+ *
  * Usage example:
+ * <pre>
+ * {@code
  * MinMax.min(1,2,-5,...,n);
  * MinMax.min(1.2,2.3,-5.0,...,n.n);
  * MinMax.max(1,2,-5,...,n);
  * MinMax.max(1.2,2.3,-5.0,...,n.n);
+ * }
+ * </pre>
  *
  * @author Cristian Sorescu (christian139601@gmail.com)
- * @version 1.0
+ * @version 2.0.0
  */
 
 public class MinMax {
