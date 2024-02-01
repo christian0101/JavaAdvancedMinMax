@@ -10,11 +10,11 @@ number of arguments*.
 
 ## Usage example
 
-```
-src.main.java.advancedminmax.MinMax.min(1,2,-5,...,n);
-src.main.java.advancedminmax.MinMax.min(1.2,2.3,-5.0,...,n.n);
-src.main.java.advancedminmax.MinMax.max(1,2,-5,...,n);
-src.main.java.advancedminmax.MinMax.max(1.2,2.3,-5.0,...,n.n);
+```java
+MinMax.min(1, 2, -5, ..., n);
+MinMax.min(1.2, 2.3, -5.0, ..., n.n);
+MinMax.max(1, 2, -5, ..., n);
+MinMax.max(1.2, 2.3, -5.0, ..., n.n);
 ```
 
 ## Documentation
